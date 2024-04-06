@@ -1,7 +1,7 @@
 # UNIT-IMU PRO mini
 
-![9DoF Display](image/DSC_0032.jpg)
-![HSI Display](image/DSC_0034.jpg)
+![9DoF Display](image/DSC_0032.JPG)
+![HSI Display](image/DSC_0034.JPG)
 ![orientation](image/IMU-Pro-Mini.jpg)
 BMI270 and BMM150 Orentation and BMI270 I2C address = 0x69
 
