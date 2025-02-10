@@ -1,5 +1,7 @@
 # UNIT-IMU PRO mini
 
+## Do not use this unit in situations involving safety to life.
+
 ![9DoF Display](image/DSC_0032.JPG)
 ![HSI Display](image/DSC_0034.JPG)
 ![orientation](image/IMU-Pro-Mini.jpg)
